@@ -57,7 +57,7 @@ Below endpoint is totally secure in this application using basic security.
 4. Maven: https://www.mkyong.com/maven/how-to-install-maven-in-windows/ 
 5. Github:
 Download project from the following git repository
-https://github.com/sonicasingh9/myRetail
+https://github.com/sonicasingh9/TargetMyRetail
 
 a) Download as a ZIP file   OR
 b) Clone the git project from git-bash or command prompt (You must have git setup)
