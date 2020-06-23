@@ -14,13 +14,6 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/products")
 public class MyRetailController {
 
-    @GetMapping(value="/", produces= MediaType.APPLICATION_JSON_VALUE)
-    public String hello()
-    {
-        return "Hello javaTpoint";
-    }
-
-
     @Autowired
     private com.tgt.myRetail.service.ProductService productService;
 

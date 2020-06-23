@@ -88,3 +88,13 @@ The end point of this application is secure. There are 3 users in this applicati
 
 ###  Swagger2 
 http://localhost:8080/swagger-ui.html
+
+### Reason for showing empty string when Product or Price is not found - 
+Since this is based on business needs
+
+
+Screenshots : 
+
+![image](https://user-images.githubusercontent.com/54973376/85398214-81fd9400-b572-11ea-945d-4f64ce8bb84f.png)
+
+![image](https://user-images.githubusercontent.com/54973376/85398189-7a3def80-b572-11ea-8f72-015757297488.png)
